@@ -1,0 +1,15 @@
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ref\ByteBank.dll
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\Maysa\Documents\Projetos NET.Framework\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
